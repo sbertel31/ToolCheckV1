@@ -1,5 +1,5 @@
 # Tool Check
-## Proyecto - Desarrollo de Software 1949
+## Proyecto - Arquitectura de Software
 #### Profesor
 - Jairo Enrique Serrano Castaneda
 #### Estudiantes
